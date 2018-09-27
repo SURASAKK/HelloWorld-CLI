@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/surasak/src/HelloWolrd-CLI/HelloWolrd-CLI.csproj",
+      "projectUniqueName": "/Users/surasak/src/HelloWorld-CLI/HelloWolrd-CLI.csproj",
       "projectName": "HelloWolrd-CLI",
-      "projectPath": "/Users/surasak/src/HelloWolrd-CLI/HelloWolrd-CLI.csproj",
+      "projectPath": "/Users/surasak/src/HelloWorld-CLI/HelloWolrd-CLI.csproj",
       "packagesPath": "/Users/surasak/.nuget/packages/",
-      "outputPath": "/Users/surasak/src/HelloWolrd-CLI/obj/",
+      "outputPath": "/Users/surasak/src/HelloWorld-CLI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
