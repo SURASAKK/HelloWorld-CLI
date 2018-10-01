@@ -1,3 +1,4 @@
+#deploy with dockerfile
 FROM microsoft/dotnet:2.1-sdk-alpine AS build-env
 WORKDIR /app
 
